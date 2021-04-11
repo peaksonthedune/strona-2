@@ -1,5 +1,5 @@
 ---
-templateKey: 'about-page'
+templateKey: 'o mnie-page'
 path: /o mnie
 title: About our values
 ---
