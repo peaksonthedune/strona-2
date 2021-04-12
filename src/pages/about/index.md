@@ -1,6 +1,6 @@
 ---
-templateKey: 'o mnie-page'
-path: /o mnie
+templateKey: 'about'
+path: /about
 title: About our values
 ---
 ### Parostatkiem w piękny rejs
